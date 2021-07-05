@@ -28,7 +28,10 @@ section{
     background-image: linear-gradient(orange,tomato);
     color: white;
     font-weight: 700;
-    padding:10px 40px ;
+    padding-left:  40px ;
+    padding-right: 40px;
+    padding-top:15px; 
+    padding-bottom: 15px;
     border-radius:5px;
 
 }
